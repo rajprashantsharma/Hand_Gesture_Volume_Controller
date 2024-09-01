@@ -38,9 +38,13 @@ This project implements a hand gesture-based volume control system using Python.
    git clone https://github.com/yourusername/HandGestureVolumeController.git
    cd HandGestureVolumeController
 
-1. Install the required Python packages:
+2. Install the required Python packages:
+   ```bash
+   pip install opencv-python-headless mediapipe numpy
 
-    pip install opencv-python-headless mediapipe numpy
+
+
+   
 
 
 Future Work
